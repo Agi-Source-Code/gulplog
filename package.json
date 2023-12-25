@@ -1,0 +1,27 @@
+{
+  "name": "gulplog",
+  "version": "1.0.0",
+  "description": "Logger for gulp and gulp plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agi-Source-Code/gulplog.git"
+  },
+  "dependencies": {
+    "glogg": "git://github.com/Agi-Source-Code/glogg.git"
+  },
+  "keywords": [
+    "gulp",
+    "log",
+    "logging"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agi-Source-Code/gulplog/issues"
+  },
+  "homepage": "https://github.com/Agi-Source-Code/gulplog#readme"
+}
